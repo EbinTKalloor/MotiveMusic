@@ -3,6 +3,7 @@
 An interactive browser-based audio sequencer controlled using hand gestures and a webcam.
 
 ## Demo
+Live demo: https://ebintkalloor.github.io/MotiveMusic/
 
 ## Features
 - Real-time hand tracking
